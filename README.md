@@ -1,12 +1,10 @@
-flask-opencv-streaming
+Reconhecimento Facial para Trabalho de Conclusão de Curso.
 =====================
 
-Example on cross-platform video streaming based on [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) article.
+Exemplo que segue como molde, o [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask).
 
-simply run 
+# simply run 
 
-python app.py
+# python app.py
 
-after installing flask and opencv.
-
-Then just open http://0.0.0.0:5000
+Abra o Servidor http://0.0.0.0:5000.
