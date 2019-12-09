@@ -3,7 +3,8 @@ from flask import Flask, render_template, Response
 import cv2
 import pymysql
 
-video = cv2.VideoCapture(0)
+#video = cv2.VideoCapture(0)
+video = cv2.VideoCapture('video02.wmv')
 
 app = Flask(__name__)
 
