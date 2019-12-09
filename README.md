@@ -8,3 +8,6 @@ Exemplo que segue como molde, o [video streaming with Flask](http://blog.miguelg
 # python app.py
 
 Abra o Servidor http://0.0.0.0:5000.
+
+
+Enjoy!
